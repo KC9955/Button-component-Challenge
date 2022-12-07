@@ -79,7 +79,7 @@ $ npm start
 - [Node.js](https://nodejs.org/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
-## Contact
+## Solutions
 
 - Website [Button-Component](https://button-component-react.web.app)
 - GitHub [@KC9955](https://github.com/KC9955/Butto--component-Challenge)
